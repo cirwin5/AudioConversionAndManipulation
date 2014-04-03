@@ -2,6 +2,14 @@ Group Log
 
 Mike: Repo created on 2014-03-21.
 
-Group met at 141 Midilton Library at 6:00pm. The group discission is as follows: Group discussed the project itself.
+-Group met at 141 Midilton Library at 6:00pm on Monday, March 24 2014  . The group discission is as follows: Group discussed the project itself.
 All three members of group *** were able to colobarate and agree on changes that were needed to make the Audio COnversion
 and manipulation project sync in accordance with the project guideline standards. BN 4/1/2014 @2:43pm
+
+-Group met in class with professor. Summery of project was presented. Early dismissal of class was 
+implmenented and group went over java script problems and solutios for the problem. Brendan volinteered
+to submit HW due 4/3/2014. BN 4/1/2014 @12:43pm
+
+-Group met in class and discussed with classmates and professor about ways to improve the
+AudioConversionAndManipulationproject. Group members quickly discussed changes to dates on 
+the wiki. BN 4/3/2014 @12:50pm
