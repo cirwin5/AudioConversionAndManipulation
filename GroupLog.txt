@@ -15,6 +15,7 @@ to submit HW due 4/3/2014. BN 4/1/2014 @12:43pm
 AudioConversionAndManipulationproject. Group members quickly discussed changes to dates on 
 the wiki. BN 4/3/2014 @12:50pm
 
--Group met in 141 Midilton Library at 12:37pm on Monday, April 21 20014. The group discussion is as follows. Myself,
-Chris and Mike talked about the aplitutde converter ad making files into wave fies and makeing other sound files into 
-wave files. For our research we rearched spectrographs and spectro meters to obtain a sense of figure for our GUI.
+-Group met in 141 Midilton Library at 12:37pm on Monday, April 21 20014. The group discussion is as follows: Myself,
+Chris and Mike talked about the aplitutde converter manipulation, making files into wave fies and making other sound 
+files into wave files. For our research we rearched spectrographs and spectrometers to obtain a sense of figure for
+our GUI. Group and personal logs were discussed and updated. BN 4/21/2014 @5:37pm
